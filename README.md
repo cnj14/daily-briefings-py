@@ -64,3 +64,11 @@ python -m app.daily_briefing # note the module-syntax invocation
 ```
 
 ![](https://user-images.githubusercontent.com/1328807/77860069-173ef580-71db-11ea-83c6-5897bb9f4f51.png)
+
+
+
+Run the app:
+
+```py
+FLASK_APP=web_app flask run
+```
